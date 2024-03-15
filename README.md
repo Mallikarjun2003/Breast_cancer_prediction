@@ -27,7 +27,7 @@ The dataset includes the following information:
 
 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 
-The dataset has been sourced from Kaggle. You can find the dataset [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTZ2aXRKTXVQNWFMenExWlg5eE5YM3FRbE5XQXxBQ3Jtc0trV1hxMExKd0g2clZpa1NDME11WWEyc1habWR4SlVWZXQ0WVc0V3BRT2Jnel9wcGJrZEFxSU5rVFkyQThRaGFlVTRiaVptd3hCNGdqclNYLUZoMjhmbkNVREtvR3V6akQ5alQxS0RpZUY4bTFLaVFobw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fuciml%2Fbreast-cancer-wisconsin-data&v=My4JgIeFdWk).
+The dataset has been sourced from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
 ## Explanation of Metrics
 
